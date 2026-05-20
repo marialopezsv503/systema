@@ -1,6 +1,6 @@
+*********************************
 MANANA SERA JUEVES
-hoy es miercoles
+*********************************
 
-
-Esta es la version2 del archivo systema.txt
+Esta es la ** version4 **  del archivo systema.txt
 ESTA LA VERSION3 del archivo
