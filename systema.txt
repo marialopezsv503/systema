@@ -1,1 +1,6 @@
+hoy es miercoles
+
 Esta es la primera version del archivo systema
+
+
+Esta es la version2 del archivo systema.txt
